@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "nom": "Doe",
+      "prenom": "John",
+      "email": "john.doe@example.com",
+      "password": "EdsonElmar"
+    },
+    {
+      "id": 2,
+      "nom": "Smith",
+      "prenom": "Jane",
+      "email": "jane.smith@example.com",
+      "password": "p@ssw0rd"
+    },
+    {
+      "id": 3,
+      "nom": "Garcia",
+      "prenom": "Maria",
+      "email": "maria.garcia@example.com",
+      "password": "securepassword"
+    },
+    {
+      "id": 4,
+      "nom": "Johnson",
+      "prenom": "Michael",
+      "email": "michael.johnson@example.com",
+      "password": "mypass123"
+    },
+    {
+      "id": 5,
+      "nom": "Brown",
+      "prenom": "Emily",
+      "email": "emily.brown@example.com",
+      "password": "brownie987"
+    },
+    {
+      "id": 6,
+      "nom": "Lopez",
+      "prenom": "David",
+      "email": "david.lopez@example.com",
+      "password": "david1234"
+    },
+    {
+      "id": 7,
+      "nom": "Lee",
+      "prenom": "Sophia",
+      "email": "sophia.lee@example.com",
+      "password": "sophie567"
+    },
+    {
+      "id": 8,
+      "nom": "Wang",
+      "prenom": "James",
+      "email": "james.wang@example.com",
+      "password": "wangster99"
+    },
+    {
+      "id": 9,
+      "nom": "Miller",
+      "prenom": "Olivia",
+      "email": "olivia.miller@example.com",
+      "password": "miller321"
+    },
+    {
+      "id": 10,
+      "nom": "Gonzalez",
+      "prenom": "Daniel",
+      "email": "daniel.gonzalez@example.com",
+      "password": "dannyboy456"
+    }
+  ]
+}
